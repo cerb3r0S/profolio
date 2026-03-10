@@ -74,7 +74,7 @@ const Hero = () => {
                     </div>
 
                     <div className="flex flex-col sm:flex-row justify-center lg:justify-start gap-4 pt-2">
-                        <a href="images/photoCV.png" download className="btn-secondary">
+                        <a href="/CV-full.pdf" download className="btn-secondary">
                             <i className="fas fa-download"></i>
                             Download CV
                         </a>
@@ -91,18 +91,14 @@ const Hero = () => {
                         </a>
                     </div>
 
-                    <div className="grid grid-cols-2 md:grid-cols-4 gap-4 pt-4">
+                    <div className="grid grid-cols-2 md:grid-cols-3 gap-4 pt-4">
                         <div className="stat-box">
                             <p className="text-2xl md:text-3xl font-bold neon-green orbitron-font">5+</p>
                             <p className="text-sm text-gray-400">Projects built</p>
                         </div>
                         <div className="stat-box">
-                            <p className="text-2xl md:text-3xl font-bold neon-green orbitron-font">5+</p>
-                            <p className="text-sm text-gray-400">Clients served</p>
-                        </div>
-                        <div className="stat-box">
                             <p className="text-2xl md:text-3xl font-bold neon-green orbitron-font">3+</p>
-                            <p className="text-sm text-gray-400">Years learning & shipping</p>
+                            <p className="text-sm text-gray-400">Years learning</p>
                         </div>
                         <div className="stat-box">
                             <p className="text-2xl md:text-3xl font-bold neon-green orbitron-font">100%</p>

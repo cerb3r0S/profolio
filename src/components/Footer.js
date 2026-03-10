@@ -19,7 +19,7 @@ const Footer = () => {
                             © {currentYear} Oukaya Salmane. All rights reserved.
                         </p>
                         <p className="text-sm text-gray-500 mt-1">
-                            Built with React, Tailwind CSS, and lots of ☕
+                            Built with React, Tailwind CSS, and lots of coffee
                         </p>
                     </div>
 
